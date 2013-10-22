@@ -14,7 +14,7 @@ Adding dependency to pubspec.yaml
 
 ```
   dependencies:
-    google_dfareporting_v1_2_api: '>=0.3.2'
+    google_dfareporting_v1_2_api: '>=0.4.3'
 ```
 
 For web applications:
